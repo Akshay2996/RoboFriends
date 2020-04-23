@@ -1,8 +1,8 @@
 # RoboFriends
 
-A simple React based App that searches the robots it contains on the website.
+A simple React based App that searches the robots it has on the website.
 
-Its a Basic react app that covers the core concepts of it.
+Its a Basic react app that covers the core concepts of react.
 
 ##### Topics Covered
 
