@@ -40,5 +40,5 @@ Start and runs the app which renders in real-time.
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Your app is ready to be deployed!
+Your app is ready to be deployed!<br />
 Cheers Mate!🍻
