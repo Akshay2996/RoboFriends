@@ -12,16 +12,20 @@ Its a Basic react app that covers the core concepts of react.
 - Function & Class components (Pure components & Smart components)
 - JSX
 - Fragments
+- Error Boundary
+- Lifecycle Hooks (Some of it)
 
-### Screenshots
+## Screenshots
 
 ![RoboFriends Image](./screenshots/robots.png)
+
+<hr />
 
 ![RoboFriends Image](./screenshots/robots2.png)
 
 ---
 
-You can run this app by using the steps below
+### Instructions to Run
 
 ##### `clone this repo`
 
@@ -29,7 +33,7 @@ In the project directory, you can run:
 
 ##### `npm install`
 
-It installs the dependencies (if any) using the package.json file.
+It installs the dependencies using the package.json file.
 
 ##### `npm start`
 
