@@ -13,7 +13,7 @@ Its a Basic react app that covers the core concepts of react.
 - JSX
 - Fragments
 - Error Boundary
-- Lifecycle Hooks (Some of it)
+- Lifecycle methods
 
 ## Screenshots
 
